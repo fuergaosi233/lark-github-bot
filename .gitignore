@@ -34,3 +34,5 @@ go.work
 n
 __debug_bin
 .vscode
+.vercel
+.env
